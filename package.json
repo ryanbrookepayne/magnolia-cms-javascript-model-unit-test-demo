@@ -1,0 +1,12 @@
+{
+  "name": "magnolia-cms-javascript-model-unit-test-demo",
+  "version": "1.0.0",
+  "repository": "git@github.com:ryanbrookepayne/magnolia-cms-javascript-model-unit-test-demo.git",
+  "author": "Ryan Payne <ryanbrookepayne@gmail.com>",
+  "license": "NONE",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-rewire": "^1.2.0",
+    "jest": "^25.5.2"
+  }
+}
